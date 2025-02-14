@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/тк4.css">
 </head>
 <body>
-
     <!-- Шапка сайта (Navbar) -->
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
