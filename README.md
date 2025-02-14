@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +9,7 @@
     <link rel="stylesheet" href="css/тк4.css">
 </head>
 <body>
+
     <!-- Шапка сайта (Navbar) -->
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -40,6 +40,7 @@
             </div>
         </nav>
     </header>
+
     <!-- Блок контента с приветствием и изображением -->
     <section class="py-5">
         <div class="container text-center">
@@ -56,7 +57,8 @@
             </div>
         </div>
     </section>
-   <!-- Секция с каруселью изображений -->
+
+    <!-- Секция с каруселью изображений -->
     <section class="py-5">
         <div class="container">
             <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
@@ -86,6 +88,7 @@
             </div>
         </div>
     </section>
+
     <!-- Секция с карточками животных -->
     <section class="py-5">
         <div class="container">
@@ -126,7 +129,8 @@
             </div>
         </div>
     </section>
-  <!-- Секция с формой для связи -->
+
+    <!-- Секция с формой для связи -->
     <section class="py-5">
         <div class="container">
             <h2>Свяжитесь с нами</h2>
@@ -151,7 +155,8 @@
             </form>
         </div>
     </section>
- <!-- Подвал сайта -->
+
+    <!-- Подвал сайта -->
     <footer class="bg-light py-4">
         <div class="container text-center">
             <p>Адрес: ул. Печерская д.3А</p>
@@ -159,7 +164,8 @@
             <p>Email: info@gmail.com</p>
         </div>
     </footer>
-<!-- Подключение JS Bootstrap -->
+
+    <!-- Подключение JS Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
